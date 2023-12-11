@@ -5,6 +5,9 @@ CrossChain AI NFT Generator trains original style AI models for artists through 
 
 ![Untitled-2023-11-26-1538](https://github.com/Solidityarchitect/CrossChain-AI-NFT-Generator/assets/125990317/c629c9c2-a744-40a8-8015-15d8f50dcadf)
 
+[![David Zhang YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qTY0G015GJ0&t=2s)
+
+
 
 
 ## Requirements For Initial Setup
