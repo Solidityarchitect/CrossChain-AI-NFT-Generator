@@ -7,7 +7,14 @@ CrossChain AI NFT Generator trains original style AI models for artists through 
 
 [![David Zhang YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qTY0G015GJ0&t=2s)
 
-
+## Chianlink Hackathon Constellation:
+<br/>
+<p align="center">
+<a href="https://devpost.com/software/happy-planet?ref_content=user-portfolio&ref_feature=in_progress" target="_blank">
+<img src="https://raw.githubusercontent.com/smartcontractkit/chainlink/develop/docs/logo-chainlink-blue.svg" width="225" alt="Chainlink logo">
+</a>
+</p>
+<br/>
 
 
 ## Requirements For Initial Setup
